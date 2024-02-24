@@ -1,0 +1,22 @@
+export const data = [
+    { key: "1", category: "Programming" },
+    { key: "2", category: "Web Development" },
+    { key: "3", category: "Mobile App Development" },
+    { key: "4", category: "Data Science" },
+    { key: "5", category: "Machine Learning" },
+    { key: "6", category: "Artificial Intelligence" },
+    { key: "7", category: "Blockchain" },
+    { key: "8", category: "Cybersecurity" },
+    { key: "9", category: "Game Development" },
+    { key: "10", category: "Graphic Design" },
+    { key: "11", category: "Digital Marketing" },
+    { key: "12", category: "Photography" },
+    { key: "13", category: "Music Production" },
+    { key: "14", category: "Business Management" },
+    { key: "15", category: "Finance" },
+    { key: "16", category: "Health & Fitness" },
+    { key: "17", category: "Cooking & Culinary Arts" },
+    { key: "18", category: "Language Learning" },
+    { key: "19", category: "Art & Craft" },
+    { key: "20", category: "Self-Improvement" }
+  ];
